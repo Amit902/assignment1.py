@@ -105,7 +105,7 @@ print ("hello world !!\n")
 print("\n")
 
 
-#6.lets do something intresting /to print/
+#6.lets do something intresting /to print/ 
 print("queston no.6")
 name="Tany stark"
 salary=100000
@@ -114,6 +114,6 @@ print("\n")
 
 print("queston no.7")
 p="Amit raut"
-course ="python"
-fees=5000
-print("%s,%s,%d"%(p,course,fees))
+course =" python"
+fees= 5000
+print("%s,%s,%d"%(p,course, fees))
